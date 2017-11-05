@@ -1,0 +1,241 @@
+{
+  "project_info": {
+    "project_number": "678396368465",
+    "firebase_url": "https://pro1-1f859.firebaseio.com",
+    "project_id": "pro1-1f859",
+    "storage_bucket": "pro1-1f859.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678396368465:android:1c864f5c7bfc5b0e",
+        "android_client_info": {
+          "package_name": "io.micole.micoleio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678396368465-e6tkba6g966aa31cjku27j7dmnniinc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Ua1HQBFV6bGkRSms7qHexWseMQ8fGww"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678396368465:android:bebf8a9825e76efa",
+        "android_client_info": {
+          "package_name": "juandavid.example.com.memothis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678396368465-e6tkba6g966aa31cjku27j7dmnniinc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Ua1HQBFV6bGkRSms7qHexWseMQ8fGww"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678396368465:android:95276971213cbe3d",
+        "android_client_info": {
+          "package_name": "com.tatoado.ramabluewingood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678396368465-e6tkba6g966aa31cjku27j7dmnniinc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Ua1HQBFV6bGkRSms7qHexWseMQ8fGww"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678396368465:android:d43a11f2ecec2d2b",
+        "android_client_info": {
+          "package_name": "juandavid.unisabana.edu.co.iotfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678396368465-e6tkba6g966aa31cjku27j7dmnniinc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Ua1HQBFV6bGkRSms7qHexWseMQ8fGww"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678396368465:android:fe03959a7d1ee32a",
+        "android_client_info": {
+          "package_name": "com.studyingapp.southfang.moralebooster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678396368465-tqpp22q70nfi2g2vubpo75q7qttbe7tp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.studyingapp.southfang.moralebooster",
+            "certificate_hash": "7307a7d8e06806b4375148472a745c037a1fe7fc"
+          }
+        },
+        {
+          "client_id": "678396368465-e6tkba6g966aa31cjku27j7dmnniinc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Ua1HQBFV6bGkRSms7qHexWseMQ8fGww"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678396368465-e6tkba6g966aa31cjku27j7dmnniinc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678396368465:android:c24ac74afee79412",
+        "android_client_info": {
+          "package_name": "org.isoron.uhabits"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678396368465-e6tkba6g966aa31cjku27j7dmnniinc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Ua1HQBFV6bGkRSms7qHexWseMQ8fGww"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678396368465:android:eec41dc826fafa39",
+        "android_client_info": {
+          "package_name": "com.example.vmac.WatBot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678396368465-e6tkba6g966aa31cjku27j7dmnniinc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Ua1HQBFV6bGkRSms7qHexWseMQ8fGww"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
